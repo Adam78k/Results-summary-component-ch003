@@ -105,7 +105,7 @@ body{
 }
 
 .section-title {
-    font-size: var(--fs600);
+    font-size: var(--fs-700);
     font-weight: var(--fw-bold);
 }
 
@@ -127,6 +127,7 @@ body{
 }
 
 .result-summary {
+    margin-top: 5rem;
     --padding:2.5rem;
     --border-radius:2rem;
     max-width: 46rem;
